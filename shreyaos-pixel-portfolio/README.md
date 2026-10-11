@@ -2,6 +2,9 @@
 
 A pastel, retro pixel-art portfolio that turns a browser window into a playful macOS-inspired desktop. Click project icons to open draggable windows, explore the portfolio, and find the **Rejected Concepts** Easter egg.
 
+Live Website: 
+https://shreyasharmaosportfolio.netlify.app
+
 ## Features
 
 - Pastel pink, peach, and lavender desktop with floating clouds
